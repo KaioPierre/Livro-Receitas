@@ -4,7 +4,7 @@ Olá, **Sejam bem vindos** ao meu mundo gastronômico! :happy:
 
 **Irei destacar alguns pratos que me gosto preparar**:
 
-- Estrogonofe
+- Estrogonofe de Carne
 
 - Frango Assado com Batatas
 
@@ -12,7 +12,7 @@ Olá, **Sejam bem vindos** ao meu mundo gastronômico! :happy:
 
 - Sopa de Ervilha
 
-- Sopa de Verdura
+- Sopa de Verduras
 
 - Carne Assada Recheada
 
