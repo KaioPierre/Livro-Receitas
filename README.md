@@ -2,7 +2,7 @@
 
 Olá, **Sejam bem vindos** ao meu mundo gastronômico! :happy:
 
-**Irei destacar alguns pratos que me gosto preparar**:
+**Irei destacar alguns pratos que me gosto de preparar**:
 
 - Estrogonofe de Carne
 
