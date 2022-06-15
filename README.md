@@ -1,6 +1,6 @@
 ### Livro De Receitas do Kaio:man_cook:
 
-Olá, **Sejam bem vindos** ao meu mundo gastronômico! :happy:
+Olá, **Sejam bem vindos** ao meu mundo gastronômico!  :eight_pointed_black_star:
 
 **Irei destacar alguns pratos que mais gosto de preparar**:
 
